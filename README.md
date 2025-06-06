@@ -1,0 +1,1 @@
+# quadratic_solver_newton_divisibility
